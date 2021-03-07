@@ -1,0 +1,26 @@
+{
+  "name": "nexthome",
+  "version": "1.0.0",
+  "description": "Next project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbarkovic/nextHome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbarkovic/nextHome/issues"
+  },
+  "homepage": "https://github.com/dbarkovic/nextHome#readme",
+  "dependencies": {
+    "next": "^10.0.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
